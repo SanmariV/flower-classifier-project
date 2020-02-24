@@ -20,8 +20,6 @@ train.py
 predict.py
 workspace_utils.py
 
-Final project submission: "Image Classifier Project.html"
-
 ### Credits
 This project would not have been possible without the help and guidance received from Udacity's course: AI Programming with Python. Also, there are a few blogs/ articles/ websites of individuals referenced in the .html file that helped me immeasurably to complete this project.
 
