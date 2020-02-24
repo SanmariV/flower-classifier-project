@@ -1,25 +1,29 @@
 ### Date created
-2020/02/24 Monday 14:45 GMT +2, Location: Pretoria, South Africa
+2019/11/19
 
 ### Project Title
-Exploring Bikeshare Data with R
+Building an image classifier application
 
 ### Description
-Made use of R to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I wrote code to import the data and answered interesting questions about it by computing descriptive statistics and by making visualizations.
+In this project, I trained an image classifier to recognize different species of flowers. I used a dataset of 102 flower categories. This project was the final project that had to be submitted in order to graduate from Udacity's AI Programming with Python Nanodegree program:https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
 
-### Recommended Software
-It is recommended to view the Explore_bikeshare_data.r file in the RStudio IDE which can be downloaded here: https://rstudio.com/products/rstudio/download/
+### Software
+I used Python and Pytorch.
 
-### Files used
-Explore_bikeshare_data.r
+### Files
+Dataset: http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 
-chicago.csv
+Label Mapping: cat_to_name.json
 
-new_york_city.csv
+functions.py
+train.py
+predict.py
+workspace_utils.py
 
-washington.csv
+Final project submission: "Image Classifier Project.html"
 
 ### Credits
-This project would not have been possible without the help and guidance received from Udacity's course: Programming for Data Science with R.
+This project would not have been possible without the help and guidance received from Udacity's course: AI Programming with Python. Also, there are a few blogs/ articles/ websites of individuals referenced in the .html file that helped me immeasurably to complete this project.
 
-###Copyright
+### Copyright
+The parts of this project where reference is made to third-party blogs and/or websites: these individuals own the copyright of the segments of code that have been referenced.  This project is the copyright of Udacity.
